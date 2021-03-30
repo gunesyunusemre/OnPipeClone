@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52cb0bf2fb12cb4fbd8c1a65c05ce61, type: 3}
+  m_Name: CatcherMediumData_default
+  m_EditorClassIdentifier: 
+  ThisGameObject: {fileID: 0}
+  _itemID: default
+  _prefab: {fileID: 9107470658962963690, guid: 38755b461a7d7aa408dca244167e5569, type: 3}
